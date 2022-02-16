@@ -6,7 +6,7 @@
   <img align="left" alt="Taimoor Janjus's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=taimoor-janjua.taimoor-janjua)
+![](https://visitor-badge.glitch.me/badge?page_id=tjanjua87.tjanjua87)
 
 <br />
 
@@ -27,7 +27,7 @@ Ability to understand customer needs, manage stakeholders, propose / develop and
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=taimoor-janjua&show_icons=true&theme=radical" alt="taimoorjanjua" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tjanjua87&show_icons=true&theme=radical" alt="taimoor janjua" />
 
 
 
