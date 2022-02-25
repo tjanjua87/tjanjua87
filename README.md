@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm Taimoor, an experienced Full Stack developer having more than 9 years of solid development / consulting experience in different software domains, currenlty working as Apps Consultant @Microsoft.
+Hi, I'm Taimoor, an experienced Full Stack developer having more than 9 years of solid development / consulting experience in different software domains, currenlty working as an Apps Consultant @Microsoft.
 
 In recent times I have worked with some renown Banks / Financial Institutions in Germany. Implemented and developed solutions / products that helped to optimise business operations.
 
